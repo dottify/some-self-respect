@@ -1,0 +1,10 @@
+# Node modules and build output
+node_modules/
+dist/
+coverage/
+*.log
+
+# Editor/OS files
+.vscode/
+.DS_Store
+*.swp

@@ -1,0 +1,19 @@
+# Build & test tools
+rollup.config.js
+tsconfig.json
+pnpm-lock.yaml
+vite.config.ts
+.eslintrc.*
+.prettierrc.*
+.gitignore
+.git/
+
+# Dev-only code
+src/
+tests/
+__tests__/
+*.spec.ts
+*.test.ts
+
+# Misc
+.vscode/
